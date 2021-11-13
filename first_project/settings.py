@@ -1,7 +1,3 @@
-"""
-Settings for Django Project
-"""
-
 from pathlib import Path
 import os
 
