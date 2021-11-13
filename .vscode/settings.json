@@ -1,0 +1,9 @@
+{
+    "python.linting.pylintEnabled": true,
+    "python.linting.pylintPath": "pylint",
+    "python.linting.pylintCategorySeverity.warning": "Hint",
+    "python.linting.pylintArgs": ["--errors-only"],
+    "python.formatting.provider": "black",
+    "python.formatting.blackPath": "black",
+    "python.defaultInterpreterPath": "env\\Scripts\\python.exe"
+}
